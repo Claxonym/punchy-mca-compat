@@ -1,3 +1,5 @@
+Modrinth: https://modrinth.com/mod/punchy-x-mca-model-fix/moderation
+
 # Punchy MCA Reborn Compatibility (test build)
 
 Client-only compatibility bridge for Minecraft 1.20.1 / Forge 47.x.
